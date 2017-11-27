@@ -1,5 +1,5 @@
 [
-  {"name":"isin","title":"ISIN","breakpoints":"xs sm","type":"number","style":{"width":80,"maxWidth":80}},
+  {"name":"isin","title":"ISIN"},
   {"name":"FundName","title":"Fund Name"},
   {"name":"LatestNAV","title":"NAV"},
   {"name":"something","title":"Never seen but always around","visible":false,"filterable":false},
