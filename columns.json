@@ -8,12 +8,5 @@
   {"name":"inception","title":"Inception Date","type":"date","breakpoints":"xs sm md","formatString":"MMM YYYY"},
   {"name":"ytd","title":"% Change YTD","type":"date","breakpoints":"xs sm md","formatString":"DD MMM YYYY"},
   {"name":"region","title":"Region"},
-  {"name":"extrainfo","title":"Extra Info"},
-  {"name":"extrainfo","title":"Extra Info"},
-  {"name":"extrainfo","title":"Extra Info"},
-  {"name":"extrainfo","title":"Extra Info"},
-  {"name":"extrainfo","title":"Extra Info"},
-  {"name":"extrainfo","title":"Extra Info"},
-  {"name":"extrainfo","title":"Extra Info"},
   {"name":"extrainfo","title":"Extra Info"}
 ]
