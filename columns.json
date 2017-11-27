@@ -6,7 +6,7 @@
   {"name":"something","title":"Never seen but always around","visible":false,"filterable":false},
   {"name":"AssetClass","title":"Asset Class","breakpoints":"xs sm","style":{"maxWidth":200,"overflow":"hidden","textOverflow":"ellipsis","wordBreak":"keep-all","whiteSpace":"nowrap"}},
   {"name":"inception","title":"Inception Date","type":"date","breakpoints":"xs sm md","formatString":"MMM YYYY"},
-  {"name":"ytd","title":"% Change YTD","type":"date","breakpoints":"xs sm md","formatString":"DD MMM YYYY"},
-  {"name":"region","title":"Region"},
-  {"name":"extrainfo","title":"Extra Info"}
+  {"name":"ytd","title":"% Change YTD","breakpoints":"xs sm md"},
+  {"name":"region","title":"Region","breakpoints":"xs sm md"},
+  {"name":"extrainfo","title":"Extra Info","breakpoints":"all"}
 ]
