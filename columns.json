@@ -1,4 +1,5 @@
 [
+  {"name":"id","title":"ID","breakpoints":"xs sm","type":"number","style":{"width":80,"maxWidth":80}},
   {"name":"isin","title":"ISIN"},
   {"name":"FundName","title":"Fund Name"},
   {"name":"LatestNAV","title":"NAV"},
