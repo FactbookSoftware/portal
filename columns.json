@@ -8,5 +8,5 @@
   {"name":"inception","title":"Inception Date","type":"date","breakpoints":"xs sm md","formatString":"MMM YYYY"},
   {"name":"ytd","title":"% Change YTD","breakpoints":"xs sm md"},
   {"name":"region","title":"Region","breakpoints":"xs sm md"},
-  {"name":"extrainfo","title":"Extra Info","breakpoints":"all"}
+  {"name":"extrainfo","title":"Extra Info","type": "html","breakpoints":"all"}
 ]
