@@ -9,5 +9,11 @@
   {"name":"ytd","title":"% Change YTD","breakpoints":"xs sm md"},
   {"name":"region","title":"Region","breakpoints":"xs sm md"},
   {"name":"extrainfo","title":"Extra Info","type":"html","breakpoints":"all"},
-  {"name":"factsheet","title":"Factsheet","type":"html","breakpoints":"all"}
+  {"name":"factsheet","title":"Factsheet","type":"html","breakpoints":"all"},
+  {"name":"navdate","title":"NAV Date","breakpoints":"all"},
+  {"name":"pf","title":"Pricing Frequency","breakpoints":"all"},
+  {"name":"perf1","title":"1 Year Cumulative (%)","breakpoints":"all"},
+  {"name":"perf3","title":"3 Year Cumulative (%)","breakpoints":"all"},
+  {"name":"perf5","title":"5 Year Cumulative (%)","breakpoints":"all"},
+  {"name":"perfsi","title":"Since Inception Cumulative (%)","breakpoints":"all"}
 ]
