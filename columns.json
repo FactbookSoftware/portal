@@ -9,4 +9,5 @@
   {"name":"ytd","title":"% Change YTD","breakpoints":"xs sm md"},
   {"name":"region","title":"Region","breakpoints":"xs sm md"},
   {"name":"extrainfo","title":"Extra Info","type": "html","breakpoints":"all"}
+  {"name":"factsheet","title":"Factsheet","type": "html","breakpoints":"all"}
 ]
